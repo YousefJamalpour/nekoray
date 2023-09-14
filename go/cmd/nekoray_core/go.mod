@@ -42,7 +42,7 @@ require (
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	github.com/sagernet/sing v0.2.9 // indirect
 	github.com/sagernet/sing-shadowsocks v0.2.4 // indirect
-	github.com/sagernet/wireguard-go v0.0.0-20221116151939-c99467f53f2c // indirect
+	github.com/xtls/wireguard-go v0.0.0-20230303120718-56f003b3a66e // indirect
 	github.com/seiflotfy/cuckoofilter v0.0.0-20220411075957-e3b120b3f5fb // indirect
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e // indirect
 	github.com/xtls/reality v0.0.0-20230828171259-e426190d57f6 // indirect
